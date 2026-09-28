@@ -130,8 +130,6 @@ pytest
 | `<Antigravity / Gemini>` | Boilerplate, scaffolding, test generation, README drafting | Rule logic design (human-authored and reviewed) |
 | `<Other, e.g. Claude>` | `<e.g. brainstorming, use-case analysis>` | `<...>` |
 
-`<Add anything else honestly. Judges score compliance with this section.>`
-
 ## What's next
 
 - `<Real KYC provider integration>`
